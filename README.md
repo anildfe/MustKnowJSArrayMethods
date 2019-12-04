@@ -1,2 +1,2 @@
 # MustKnowJSArrayMethods
-The 8 Must Know JavaScript Array Methods
+JavaScript Array Methods You Must Know
